@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nav">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_nav" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:foregroundGravity="clip_horizontal|center_horizontal"
+        android:isScrollContainer="true"
+        android:minHeight="56dp"
+        android:nestedScrollingEnabled="false"
+        android:textAlignment="gravity"
+        app:buttonGravity="top|center_vertical|bottom"
+        app:collapseIcon="@drawable/menu"
+        app:layout_anchor="@+id/appBarLayout"
+        app:layout_anchorGravity="center"
+        app:navigationContentDescription="@string/Nav"
+        app:navigationIcon="@drawable/menu"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:subtitleTextColor="#070707"
+        app:titleMarginEnd="10dp"
+        app:titleTextColor="#090909" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
