@@ -5,35 +5,36 @@ This Application is an Example of Appointment System in which you can book your 
 This App is Connected with Firebase Authentication which helps you to Sign in and Sign up.
 You can add your Firebase account by replacing the package name by yours.So Edit and Enjoy 😊 
 
-![Logo](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/logo.jpg)
-
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/logo.jpg"  height ="400px" width="700px"></h1>
     
+
 ## Screenshots
 
 1.Entrance Page (with Animmation)
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/Entrance.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/Entrance.png" > </h1>
 
 
 2.Sign in Page
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/signin.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/signin.png" > </h1>
 
 3.Sign Up Page 
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/signup.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/signup.png" > </h1>
 
 4.Profile Page
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/profile.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/profile.png" > </h1>
 
 5.Selection Page
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/choose.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/choose.png" > </h1>
 
 6.Appointment Page
 
-![App Screenshot](https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/booking%20page.png)
+<h1 align="center"> <img  src = "https://raw.githubusercontent.com/Sahil-Rathod/BOOKME-App/main/BOOKME%20App/app/src/main/res/drawable/booking%20page.png" > </h1>
+
 
 ## Authors
 
