@@ -1,4 +1,4 @@
-#BOOKME APP With Firebase Authentication Example App
+#BOOKME APP With Firebase Authentication
 
 In this application i have implemented firebase email authentication system. where user can create new account, login using the email and password.
 
